@@ -1,0 +1,19 @@
+# AnyLogic 忽略规则
+*.alp.*
+*.alx
+*.bak
+*.log
+_autosave_*
+*/tmp/
+*/build/
+*/exports/
+*/backup/
+*.class
+*.exe
+*.dll
+*.so
+*.dylib
+.DS_Store
+Thumbs.db
+/.idea/
+/.vscode/
