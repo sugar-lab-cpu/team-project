@@ -2600,7 +2600,7 @@
 				<Control Type="Window3D">
 					<Id>1778780026104</Id>
 					<Name><![CDATA[window3d]]></Name>
-					<X>0</X><Y>20</Y>
+					<X>20</X><Y>20</Y>
 					<Width>1340</Width>
 					<Height>560</Height>
 					<MakeDefaultViewArea>true</MakeDefaultViewArea>
@@ -3974,8 +3974,8 @@
 	<InspectionWindowColorTheme>DEFAULT</InspectionWindowColorTheme>
 	<Frame>
 		<Id>1778693381673</Id>
-		<Width>1000</Width>
-		<Height>600</Height>
+		<Width>1400</Width>
+		<Height>640</Height>
 	</Frame>
 	<Database>
 		<Id>1778693381672</Id>
@@ -4086,6 +4086,12 @@
 		<Resource>
 			<Id>1778777614953</Id>
 			<Path><![CDATA[3d/passenger_car_1.dae]]></Path>
+			<ReferencedFromUserCode>false</ReferencedFromUserCode>
+			<Location>FILE_SYSTEM</Location>
+		</Resource>
+		<Resource>
+			<Id>1778834956691</Id>
+			<Path><![CDATA[3d/passenger_car_1.jpg]]></Path>
 			<ReferencedFromUserCode>false</ReferencedFromUserCode>
 			<Location>FILE_SYSTEM</Location>
 		</Resource>
